@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Find me also on [StackOverflow](https://stackoverflow.com/users/3449673/thutt) and [LinkedIn](https://www.linkedin.com/in/thomas-hutterer-b82156101/).
+
 <!--
 **thutterer/thutterer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
