@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Find me also on [StackOverflow](https://stackoverflow.com/users/3449673/thutt) and [LinkedIn](https://www.linkedin.com/in/thomas-hutterer-b82156101/).
 
